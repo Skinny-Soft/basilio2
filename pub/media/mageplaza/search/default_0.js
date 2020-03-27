@@ -1,0 +1,1 @@
+var mageplazaSearchProducts = [{"value":"Camisa Basilio Slim Comfort Listrada","c":["7","9"],"d":"Camisa Basilio Slim Comfort 100% Algod\u00e3o Fio 80.","p":190,"i":"cache\/2f97dd9824ef95b648bf2a8d8b287d47\/c\/a\/camisa_social_slim_comfort_vinho_-_frente.jpg","u":"camisa-basilio-slim-comfort-listrada.html"}]
